@@ -1,0 +1,52 @@
+{
+  "editionDate": "2026-07-16",
+  "editionLabel": "16. Juli 2026",
+  "updatedAt": "2026-07-16T10:54:00+02:00",
+  "items": [
+    {
+      "id": "who-health-ai-2026-07-16",
+      "category": "GESUNDHEIT",
+      "title": "37 Länder beraten über KI im Gesundheitswesen",
+      "summary": "Die WHO und Portugal bringen Regierungsvertreter und Fachleute aus 37 Ländern in Lissabon zusammen.",
+      "detail": "Im Mittelpunkt stehen Regeln, belastbare Daten, gerechter Zugang und die Frage, wie medizinische KI sicher in Gesundheitssysteme gelangt. KI kann Diagnostik und Versorgung beschleunigen - aber nur, wenn Qualität, Datenschutz und Zugang nicht vom Standort abhängen.",
+      "sourceName": "WHO/Europa",
+      "sourceUrl": "https://www.who.int/europe/de/news-room/events/item/2026/07/15/default-calendar/global-who-conference--shaping-ai-in-health"
+    },
+    {
+      "id": "openai-frontier-safety-2026-07-15",
+      "category": "SICHERHEIT",
+      "title": "OpenAI drängt auf einheitliche Regeln für starke KI",
+      "summary": "Ähnliche Gesetze einzelner US-Bundesstaaten sollen in einen nationalen Standard münden.",
+      "detail": "Als Kernelemente nennt OpenAI dokumentierte Risikoprüfungen, Meldungen schwerer Vorfälle und unabhängige Audits. Der Vorschlag zeigt, wie stark sich die Debatte vom freiwilligen Versprechen hin zu überprüfbaren Pflichten verschiebt.",
+      "sourceName": "OpenAI",
+      "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action/"
+    },
+    {
+      "id": "agentic-ai-july-2026",
+      "category": "AGENTEN",
+      "title": "KI entwickelt sich vom Chatbot zum ausführenden Agenten",
+      "summary": "Modelle recherchieren, programmieren, nutzen Werkzeuge und bearbeiten längere Aufgaben.",
+      "detail": "Google positioniert Gemini 3.5 Flash für Agenten und Coding; OpenAI rollt mit ChatGPT Work einen Agenten für umfangreiche Projekte aus. Der Nutzen verschiebt sich von einzelnen Antworten zu kompletten Arbeitsergebnissen.",
+      "sourceName": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/models/gemini/"
+    },
+    {
+      "id": "eu-ai-cybersecurity-2026-07",
+      "category": "CYBERSICHERHEIT",
+      "title": "EU plant Schutzrahmen für fortgeschrittene KI im Cyberraum",
+      "summary": "Die Kommission will KI-Risiken begrenzen und defensive Anwendungen fördern.",
+      "detail": "Gemeinsam mit ENISA sollen europäische Verfahren und Kapazitäten für Tests, Schutz und Reaktion ausgebaut werden. Dieselben KI-Fähigkeiten können Verteidiger schneller machen oder Angriffe skalieren.",
+      "sourceName": "Europäische Kommission",
+      "sourceUrl": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en"
+    },
+    {
+      "id": "chatgpt-work-live-july-2026",
+      "category": "PRODUKTE",
+      "title": "ChatGPT setzt auf lange Aufgaben und natürlichere Sprache",
+      "summary": "ChatGPT Work und GPT-Live-1 verbinden Agentenfunktionen mit Sprachdialogen.",
+      "detail": "ChatGPT Work soll längere Projekte über Dateien und verbundene Apps hinweg bearbeiten. GPT-Live-1 ermöglicht natürlichere Sprachdialoge mit Unterbrechungen und kann Suche, Erinnerung sowie visuelle Ergebnisse einbeziehen.",
+      "sourceName": "OpenAI Release Notes",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    }
+  ]
+}
