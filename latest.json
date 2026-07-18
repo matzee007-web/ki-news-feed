@@ -1,52 +1,52 @@
 {
-  "editionDate": "2026-07-16",
-  "editionLabel": "16. Juli 2026",
-  "updatedAt": "2026-07-16T10:54:00+02:00",
+  "editionDate": "2026-07-18",
+  "editionLabel": "18. Juli 2026",
+  "updatedAt": "2026-07-18T11:31:09+02:00",
   "items": [
     {
-      "id": "who-health-ai-2026-07-16",
-      "category": "GESUNDHEIT",
-      "title": "37 Länder beraten über KI im Gesundheitswesen",
-      "summary": "Die WHO und Portugal bringen Regierungsvertreter und Fachleute aus 37 Ländern in Lissabon zusammen.",
-      "detail": "Im Mittelpunkt stehen Regeln, belastbare Daten, gerechter Zugang und die Frage, wie medizinische KI sicher in Gesundheitssysteme gelangt. KI kann Diagnostik und Versorgung beschleunigen - aber nur, wenn Qualität, Datenschutz und Zugang nicht vom Standort abhängen.",
-      "sourceName": "WHO/Europa",
-      "sourceUrl": "https://www.who.int/europe/de/news-room/events/item/2026/07/15/default-calendar/global-who-conference--shaping-ai-in-health"
+      "id": "waico-ai-governance-2026-07-18",
+      "category": "GEOPOLITIK",
+      "title": "China formt mit 29 Staaten eine neue KI-Organisation",
+      "summary": "Peking will globale KI-Regeln stärker mitgestalten und Schwellenländern mehr Einfluss verschaffen.",
+      "detail": "Auf der Welt-KI-Konferenz in Shanghai wurde eine internationale Kooperationsorganisation mit 29 Gründungsstaaten vorgestellt. China wirbt für offene Modelle, gemeinsame Risikokontrolle und mehr Mitsprache des Globalen Südens. Dahinter steht zugleich ein geopolitischer Gegenentwurf zu US-geführten Technologieallianzen und Exportkontrollen.",
+      "sourceName": "EL PAÍS",
+      "sourceUrl": "https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html"
     },
     {
-      "id": "openai-frontier-safety-2026-07-15",
-      "category": "SICHERHEIT",
-      "title": "OpenAI drängt auf einheitliche Regeln für starke KI",
-      "summary": "Ähnliche Gesetze einzelner US-Bundesstaaten sollen in einen nationalen Standard münden.",
-      "detail": "Als Kernelemente nennt OpenAI dokumentierte Risikoprüfungen, Meldungen schwerer Vorfälle und unabhängige Audits. Der Vorschlag zeigt, wie stark sich die Debatte vom freiwilligen Versprechen hin zu überprüfbaren Pflichten verschiebt.",
+      "id": "economists-ai-act-now-2026-07-18",
+      "category": "ARBEIT & WIRTSCHAFT",
+      "title": "Führende Ökonomen fordern jetzt Leitplanken für transformative KI",
+      "summary": "Mehr als 200 prominente Erstunterzeichner warnen vor schnellem Jobwandel und verlangen vorausschauende Institutionen.",
+      "detail": "Die Erklärung „We Must Act Now“ rechnet damit, dass KI in den kommenden zehn Jahren radikal leistungsfähiger werden könnte. Sie nennt große Wohlstandsgewinne, aber auch breite Verdrängung von Arbeit als möglich. Politik, Forschung und Unternehmen sollen deshalb Anreize und Regeln entwickeln, damit KI Menschen ergänzt statt sie bloß zu ersetzen.",
+      "sourceName": "We Must Act Now / Stanford",
+      "sourceUrl": "https://www.wemustactnow.ai/"
+    },
+    {
+      "id": "openai-useful-intelligence-dollar-2026-07-18",
+      "category": "UNTERNEHMEN",
+      "title": "OpenAI schlägt „nützliche Intelligenz pro Dollar“ als KI-Maßstab vor",
+      "summary": "Nicht Tokenpreise, sondern erfolgreich erledigte Arbeit inklusive Prüfung und Korrekturen soll zählen.",
+      "detail": "OpenAI-CFO Sarah Friar empfiehlt Unternehmen vier Kennzahlen: wertvolle erledigte Aufgaben, Kosten pro erfolgreichem Ergebnis, Zuverlässigkeit und Skaleneffekte. Die Logik ist praxisnah: Ein günstiges Modell kann durch Wiederholungen und menschliche Nacharbeit teurer werden als ein stärkeres Modell, das eine Aufgabe im ersten Versuch korrekt abschließt.",
       "sourceName": "OpenAI",
-      "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action/"
+      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age/"
     },
     {
-      "id": "agentic-ai-july-2026",
-      "category": "AGENTEN",
-      "title": "KI entwickelt sich vom Chatbot zum ausführenden Agenten",
-      "summary": "Modelle recherchieren, programmieren, nutzen Werkzeuge und bearbeiten längere Aufgaben.",
-      "detail": "Google positioniert Gemini 3.5 Flash für Agenten und Coding; OpenAI rollt mit ChatGPT Work einen Agenten für umfangreiche Projekte aus. Der Nutzen verschiebt sich von einzelnen Antworten zu kompletten Arbeitsergebnissen.",
-      "sourceName": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/models/gemini/"
+      "id": "google-agent-security-india-2026-07-18",
+      "category": "SICHERHEIT",
+      "title": "Google zeigt neue Schutzschicht für autonome KI-Agenten",
+      "summary": "Isolierte Laufzeiten und offene Protokolle sollen Agenten, Zugangsdaten und Zahlungen absichern.",
+      "detail": "Google stellt in Indien Sec-Gemini v3, den offenen CAPSEM-Sicherheitsrahmen und Standards für Agenten-Zahlungen vor. CAPSEM sperrt jeden Agenten in eine isolierte virtuelle Maschine und hält Rohzugangsdaten außerhalb seiner Reichweite. Das adressiert ein Kernproblem autonomer Software: Sie liest nicht nur Informationen, sondern kann selbst Aktionen ausführen.",
+      "sourceName": "Google India",
+      "sourceUrl": "https://blog.google/intl/en-in/company-news/building-the-safety-foundations-for-indias-agentic-future/"
     },
     {
-      "id": "eu-ai-cybersecurity-2026-07",
-      "category": "CYBERSICHERHEIT",
-      "title": "EU plant Schutzrahmen für fortgeschrittene KI im Cyberraum",
-      "summary": "Die Kommission will KI-Risiken begrenzen und defensive Anwendungen fördern.",
-      "detail": "Gemeinsam mit ENISA sollen europäische Verfahren und Kapazitäten für Tests, Schutz und Reaktion ausgebaut werden. Dieselben KI-Fähigkeiten können Verteidiger schneller machen oder Angriffe skalieren.",
-      "sourceName": "Europäische Kommission",
-      "sourceUrl": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en"
-    },
-    {
-      "id": "chatgpt-work-live-july-2026",
-      "category": "PRODUKTE",
-      "title": "ChatGPT setzt auf lange Aufgaben und natürlichere Sprache",
-      "summary": "ChatGPT Work und GPT-Live-1 verbinden Agentenfunktionen mit Sprachdialogen.",
-      "detail": "ChatGPT Work soll längere Projekte über Dateien und verbundene Apps hinweg bearbeiten. GPT-Live-1 ermöglicht natürlichere Sprachdialoge mit Unterbrechungen und kann Suche, Erinnerung sowie visuelle Ergebnisse einbeziehen.",
-      "sourceName": "OpenAI Release Notes",
-      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+      "id": "microsoft-tiket-agentic-service-2026-07-18",
+      "category": "PRAXIS",
+      "title": "Reiseplattform automatisiert 87 Prozent ihrer Kundenanfragen mit KI",
+      "summary": "tiket.com meldet hohe Automatisierung, kürzere Reaktionszeiten und mehr Raum für komplexe Fälle.",
+      "detail": "Der KI-Assistent CRATER bearbeitet laut Microsoft mehr als 75.000 Kontakte pro Monat; der Service-Agent „halo tiket“ automatisiert bis zu 87 Prozent der Anfragen. Das Beispiel zeigt, wie Agenten von Antworten zu echten Vorgängen wie Buchungsprüfung oder Erstattung wechseln. Entscheidend bleiben Sicherheitsregeln, aktuelle Betriebsdaten und Eskalation an Menschen.",
+      "sourceName": "Microsoft Source Asia",
+      "sourceUrl": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai/"
     }
   ]
 }
