@@ -1,61 +1,61 @@
 {
-    "editionDate":  "2026-07-23",
-    "editionLabel":  "23. Juli 2026",
-    "updatedAt":  "2026-07-23T09:11:10+02:00",
-    "items":  [
-                  {
-                      "id":  "alphabet-q2-ai-cloud-growth-2026-07-23",
-                      "category":  "WIRTSCHAFT",
-                      "title":  "Googles KI-Geschäft treibt Alphabet zu starkem Wachstum",
-                      "summary":  "Google Cloud wächst im zweiten Quartal um 82 Prozent; Gemini erreicht 950 Millionen monatlich aktive Nutzer.",
-                      "detail":  "Alphabet meldet 24 Prozent Umsatzwachstum auf 119,8 Milliarden Dollar. Google Cloud wächst um 82 Prozent, getragen von KI-Infrastruktur und KI-Lösungen. Laut Sundar Pichai verarbeitet Google über seine eigenen Modell-APIs rund 22 Milliarden Tokens pro Minute. Gleichzeitig bleiben die Investitionen in Rechenzentren, Chips und Netze enorm.",
-                      "sourceName":  "Google",
-                      "sourceUrl":  "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/"
-                  },
-                  {
-                      "id":  "openai-genesis-national-science-2026-07-23",
-                      "category":  "FORSCHUNG",
-                      "title":  "OpenAI stellt Millionen für KI-gestützte Wissenschaft bereit",
-                      "summary":  "US-Forschende erhalten Codex- und API-Zugang für große Projekte in Materialforschung, Biologie und Cybersicherheit.",
-                      "detail":  "OpenAI unterstützt die Genesis Mission des US-Energieministeriums mit vier Millionen Dollar Codex-Zugang für etwa 2.000 Forschende, drei Millionen Dollar API-Hilfe für zwei wissenschaftliche Großkampagnen und weiteren Nutzungskontingenten. Im Fokus stehen Hochtemperatur-Supraleiter, Biosicherheit und die Frage, welche Forschungsprobleme durch KI bereits lösbar werden.",
-                      "sourceName":  "OpenAI",
-                      "sourceUrl":  "https://openai.com/index/advancing-the-next-era-of-national-science/"
-                  },
-                  {
-                      "id":  "google-ai-overviews-france-2026-07-23",
-                      "category":  "PRODUKTE",
-                      "title":  "Google startet AI Overviews und KI-Modus in Frankreich",
-                      "summary":  "Frankreich erhält KI-Antworten in der Suche, Folgefragen sowie multimodale Eingaben mit Bildern und Dateien.",
-                      "detail":  "Google führt seine generativen Suchfunktionen nun auch in Frankreich ein. AI Overviews fassen komplexe Fragen zusammen, während der KI-Modus dialogorientierte Recherche mit Folgefragen ermöglicht. Texte, Bilder und Dateien können als Eingabe dienen. Für Medien ist das relevant, weil Antworten häufiger direkt auf der Suchseite entstehen.",
-                      "sourceName":  "Google France",
-                      "sourceUrl":  "https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/"
-                  },
-                  {
-                      "id":  "microsoft-genesis-mission-science-2026-07-23",
-                      "category":  "INFRASTRUKTUR",
-                      "title":  "Microsoft koppelt Cloud und KI an die Genesis Mission",
-                      "summary":  "Azure, Forschungsmodelle und Hochleistungsrechnen sollen US-Laboren schnellere wissenschaftliche Experimente ermöglichen.",
-                      "detail":  "Microsoft beteiligt sich mit sicherer Cloud-Infrastruktur, KI-Werkzeugen und technischem Know-how für nationale Labore und Universitäten. Ziel ist eine engere Verbindung von Modellen, Simulationen, Forschungsdaten und Supercomputing. Der parallele Vorstoß von Microsoft und OpenAI zeigt, dass wissenschaftliche KI zunehmend als strategische Infrastruktur behandelt wird.",
-                      "sourceName":  "Microsoft",
-                      "sourceUrl":  "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/"
-                  },
-                  {
-                      "id":  "pppl-ai-operator-fusion-2026-07-23",
-                      "category":  "ENERGIE",
-                      "title":  "KI-Operator soll Fusionsheizung autonom unterstützen",
-                      "summary":  "Ein Princeton-Labor entwickelt einen KI-Operator für ein zentrales Heizsystem in Fusionsexperimenten.",
-                      "detail":  "Das Princeton Plasma Physics Laboratory leitet ein Projekt, das einen KI-Operator für ein wichtiges Heizsystem in Fusionsanlagen entwickeln soll. Die Software soll Betriebsdaten verstehen, Entscheidungen unterstützen und Experimente effizienter machen. Modelle arbeiten damit nicht nur mit Dokumenten, sondern in komplexen wissenschaftlichen Anlagen, in denen Sicherheit und Kontrolle zählen.",
-                      "sourceName":  "Princeton Plasma Physics Laboratory",
-                      "sourceUrl":  "https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system"
-                  },
-                  {
-                      "id":  "amd-advancing-ai-2026-event-2026-07-23",
-                      "category":  "CHIPS",
-                      "title":  "AMD zeigt heute seine nächste offene KI-Plattform",
-                      "summary":  "Bei Advancing AI 2026 will AMD neue Bausteine für Chips, Software und skalierbare KI-Systeme vorstellen.",
-                      "detail":  "AMDs Flaggschiffveranstaltung findet heute in San Francisco statt und wird live übertragen. Im Zentrum stehen ein offenes KI-Ökosystem sowie Baupläne für Training, Inferenz und große Rechenzentren. Entscheidend ist, wie AMD Instinct-Beschleuniger, EPYC-Prozessoren, Vernetzung und ROCm-Software zu einer Alternative zu NVIDIAs Plattform verbindet.",
-                      "sourceName":  "AMD",
-                      "sourceUrl":  "https://www.amd.com/en/newsroom/press-releases/2026-4-28-amd-announces-advancing-ai-2026-.html"
-                  }
-              ]
+  "editionDate": "2026-07-27",
+  "editionLabel": "KI-Nachrichten vom 27. Juli 2026",
+  "updatedAt": "2026-07-27T08:40:02Z",
+  "items": [
+    {
+      "id": "kimi-k3-open-weights-2026-07-27",
+      "category": "MODELLE",
+      "title": "Kimi K3: Offene Modellgewichte sind für heute angekündigt",
+      "summary": "Moonshot AI will die Gewichte seines 2,8-Billionen-Parameter-Modells öffnen; am Morgen lief auf Hugging Face noch der Countdown.",
+      "detail": "Kimi K3 ist seit Mitte Juli als Dienst verfügbar und hat mit starken Coding-Ergebnissen sowie niedrigen Preisen Aufmerksamkeit erzeugt. Die für heute angekündigten Gewichte würden unabhängige Tests und selbst betriebenes Hosting ermöglichen. Wichtig bleibt der Vorbehalt: Zum Redaktionsschluss zeigte die Veröffentlichungsseite noch einen Countdown. Der Fall verschärft die Debatte darüber, wie offen leistungsfähige KI sein sollte.",
+      "sourceName": "Hugging Face / Kimi K3",
+      "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K3"
+    },
+    {
+      "id": "nvidia-ai-jobs-debate-2026-07-27",
+      "category": "ARBEIT",
+      "title": "Nvidia-Chef erwartet durch KI mehr neue Arbeit als Massenersatz",
+      "summary": "Jensen Huang widerspricht düsteren Prognosen und verweist auf produktivere Fachkräfte, Rechenzentren und zusätzliche Nachfrage.",
+      "detail": "Huang hält die Behauptung, KI werde die Hälfte der Arbeitsplätze vernichten, für überzogen. Automatisierte Aufgaben könnten Angebot verbilligen und dadurch mehr Nachfrage schaffen; außerdem entstünden Jobs beim Bau und Betrieb von Rechenzentren. Seine Sicht ist jedoch keine Entwarnung: Untersuchungen sehen bislang keinen flächendeckenden Ersatz, aber deutliche Veränderungen bei Aufgaben, Einstiegsrollen und einzelnen Berufsgruppen.",
+      "sourceName": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/07/24/nvidia-jensen-huang-ai-jobs"
+    },
+    {
+      "id": "openai-presence-2026-07-27",
+      "category": "AGENTEN",
+      "title": "OpenAI Presence soll Agenten in kritische Abläufe bringen",
+      "summary": "Die verwaltete Plattform verbindet Sprach- und Chat-Agenten mit Regeln, Freigaben, Tests und menschlicher Eskalation.",
+      "detail": "Presence richtet sich an Unternehmen mit großen, risikoreichen Arbeitsabläufen. Organisationen definieren erlaubte Systeme und Aktionen, prüfen Agenten in Simulationen und legen fest, wann Menschen übernehmen. Damit wird Governance selbst zum Produktmerkmal. Der Ansatz zeigt zugleich, dass leistungsfähige Agenten nicht nur ein Modell, sondern auch Überwachung, Zugriffskontrolle und laufende Qualitätsmessung benötigen.",
+      "sourceName": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-openai-presence/"
+    },
+    {
+      "id": "openai-national-science-2026-07-27",
+      "category": "FORSCHUNG",
+      "title": "OpenAI baut KI-Einsatz in der US-Wissenschaft aus",
+      "summary": "Neue Partnerschaften sollen KI in Biowissenschaften, Materialforschung und staatlichen Forschungsprogrammen stärker nutzbar machen.",
+      "detail": "OpenAI beschreibt Kooperationen mit Forschungseinrichtungen und Behörden, darunter Arbeiten mit Los Alamos zu sicheren multimodalen Systemen im Labor. Ziel ist, KI als wissenschaftlichen Mitarbeiter einzusetzen: für Literatur, Versuchsplanung, Analyse und Modellierung. Entscheidend wird sein, ob unabhängige Evaluationen, Datenzugang und menschliche Kontrolle mit dem Tempo der Einführung Schritt halten.",
+      "sourceName": "OpenAI",
+      "sourceUrl": "https://openai.com/index/advancing-the-next-era-of-national-science/"
+    },
+    {
+      "id": "alphabet-q2-ai-growth-2026-07-27",
+      "category": "WIRTSCHAFT",
+      "title": "Alphabet meldet starkes Cloud-Wachstum durch KI",
+      "summary": "Google sieht KI als Wachstumstreiber in Suche, Cloud und Produkten; die hohen Investitionen in Rechenzentren steigen weiter.",
+      "detail": "In den Aussagen zum zweiten Quartal betont Alphabet, dass KI das Geschäft in mehreren Bereichen neu ordnet. Gemini wird in Produkte und Entwicklerangebote integriert, während Google Cloud von hoher Nachfrage nach Rechenleistung und KI-Diensten profitiert. Die Kehrseite sind enorme Infrastrukturkosten. Damit bleibt die zentrale Marktfrage, ob Nutzung und Umsätze langfristig schneller wachsen als der Kapitalbedarf.",
+      "sourceName": "Google",
+      "sourceUrl": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/"
+    },
+    {
+      "id": "microsoft-mistral-expanded-partnership-2026-07-27",
+      "category": "EUROPA",
+      "title": "Microsoft und Mistral vertiefen ihre europäische KI-Partnerschaft",
+      "summary": "Ein Milliardenpaket soll Rechenkapazität in Europa ausbauen und Modelle von der Cloud bis zu abgeschotteten Umgebungen verfügbar machen.",
+      "detail": "Microsoft will einen Teil der erweiterten europäischen GPU-Infrastruktur von Mistral nutzen und dessen Modelle breiter über die eigene KI-Plattform anbieten. Kunden in regulierten Branchen sollen zwischen Cloud, eigener Infrastruktur und vollständig getrennten Umgebungen wählen können. Die Partnerschaft stärkt Europas Rechenbasis, bindet sie aber zugleich eng an einen US-Hyperscaler.",
+      "sourceName": "Microsoft",
+      "sourceUrl": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/"
+    }
+  ]
 }
