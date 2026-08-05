@@ -1,4 +1,65 @@
 {
+  "editionDate": "2026-08-05",
+  "editionLabel": "KI-Nachrichten vom 5. August 2026",
+  "updatedAt": "2026-08-05T07:07:10Z",
+  "items": [
+    {
+      "id": "bayreuth-ai-ring-2026-08-05",
+      "category": "KULTUR",
+      "title": "KI-Bühnenbilder polarisieren beim Bayreuther »Ring«",
+      "summary": "Rund ein Dutzend KI-Modelle steuerten Projektionen für Wagners Jubiläumszyklus – mit starkem Beifall für die Musik und Buhrufen für das Produktionsteam.",
+      "detail": "Für die 14,5-stündige Aufführung wurden etwa 1.000 Bilder früherer Bayreuther Inszenierungen eingespeist. Stable Diffusion eröffnete jeden Akt mit historischen Motiven; weitere Modelle wählten Bilder passend zu Text und Musik. Das Experiment zeigt, wie generative Systeme live in Hochkultur eingesetzt werden – und wie schnell technische Faszination mit dramaturgischer Kritik kollidiert.",
+      "sourceName": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/ai-ring-cycle-opera-bayreuth-wagner-6fd2a342cd36e2d6a60e67b91c3bff79"
+    },
+    {
+      "id": "eu-ai-transparency-rules-2026-08-05",
+      "category": "REGULIERUNG",
+      "title": "EU-Transparenzpflichten für KI-Inhalte sind angelaufen",
+      "summary": "Artikel 50 des EU AI Act erfasst seit dem 2. August Kennzeichnung und Offenlegung bei KI-Inhalten und Deepfakes; für ältere Systeme gelten Übergänge.",
+      "detail": "Die EU-Kommission nennt nationale Marktaufsichten, das AI Office und den Europäischen Datenschutzbeauftragten als zuständige Stellen. Unternehmen drohen bei Verstößen bis zu 15 Millionen Euro oder drei Prozent des weltweiten Jahresumsatzes. Generative Systeme, die vor dem Stichtag auf dem Markt waren, erhalten für die technische Markierung eine Frist bis Dezember 2026.",
+      "sourceName": "Europäische Kommission",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems"
+    },
+    {
+      "id": "ai4-world-models-2026-08-05",
+      "category": "PHYSICAL AI",
+      "title": "World Models rücken auf der Ai4 ins Zentrum",
+      "summary": "Die Konferenzdebatte verschiebt den Blick von Textmodellen zu Systemen, die räumliche Umgebungen abbilden, Veränderungen antizipieren und handeln.",
+      "detail": "Vertreter von MIT Media Lab, Niantic Spatial, Odyssey, Agtonomy und TELUS Digital diskutierten am 4. August Datensätze, Simulation, reales Training und Rechenlimits. World Models gelten als Grundlage für Physical AI in Robotik, Augmented Reality und autonomen Fahrzeugen. Der entscheidende nächste Schritt ist nicht nur Wahrnehmung, sondern belastbare Planung über Zeit und Raum.",
+      "sourceName": "TELUS Digital / Ai4",
+      "sourceUrl": "https://www.telusdigital.com/about/newsroom/telus-digital-to-speak-on-world-models-panel-at-ai4-2026-in-las-vegas"
+    },
+    {
+      "id": "islped-low-power-ai-2026-08-05",
+      "category": "HARDWARE",
+      "title": "Energieeffiziente KI-Hardware prägt den heutigen Forschungsstart",
+      "summary": "Die ISLPED 2026 startet mit In-Memory Computing, Edge-Beschleunigern, neuromorphen Testbeds und Sub-8-Bit-Formaten für lokale KI.",
+      "detail": "Das Programm vom 5. August bündelt Ansätze, die Rechenleistung näher an Speicher und Sensoren bringen. Neben einer Keynote zu In-Memory Computing stehen multimodale Edge-Systeme, neuromorphe Hardware und ein Sub-8-Bit-Datenformat für zuverlässiges LLM-Serving auf Geräten. Der gemeinsame Nenner ist weniger Energie- und Speicherbedarf statt bloß größerer Modelle.",
+      "sourceName": "ISLPED 2026",
+      "sourceUrl": "https://www.islped.org/2026/final-program/"
+    },
+    {
+      "id": "frontier-model-fusion-reading-attention-2026-08-05",
+      "category": "FORSCHUNG",
+      "title": "Modell-Mix liest Wichtiges besser als ein einzelnes Frontier-Modell",
+      "summary": "Eine neue Studie kombiniert fünf Anbieter-Rankings und erreicht 60 Prozent der messbaren Lücke zwischen einfacher Heuristik und menschlicher Auswahl.",
+      "detail": "Die Forschenden untersuchten, welche Sätze Leser in Webdokumenten markieren. Einzelne Frontier-Modelle deckten im Zero-Shot-Test 35 bis 53 Prozent der Lücke ab; eine ungewichtete Fusion erreichte 60 Prozent und bestätigte den Vorteil in einer vorregistrierten Replikation. Ein offenes 8B-Modell behielt nach Distillation 90 Prozent des zusätzlichen Nutzens.",
+      "sourceName": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2608.01704"
+    },
+    {
+      "id": "picopilot-photonic-design-agent-2026-08-05",
+      "category": "AGENTEN",
+      "title": "PICopilot automatisiert Entwürfe photonischer Schaltungen",
+      "summary": "Das neue Multi-Agenten-System verbindet RAG, Skriptgenerierung und Feedback und löst im veröffentlichten Benchmark alle 48 Aufgaben.",
+      "detail": "PICopilot ist auf Photonic Design Automation zugeschnitten. Laut Preprint absolvierte das System sämtliche 48 Tests und löste 21 Aufgaben mehr als ein fortgeschrittenes GPT-5-Modell mit allgemeiner RAG-Pipeline, ohne deutlich höhere Latenz oder Kosten. Das Ergebnis ist noch ein Preprint, zeigt aber den Trend zu spezialisierten Agenten für anspruchsvolle Ingenieursarbeit.",
+      "sourceName": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2608.01791"
+    }
+  ]
+}
+{
     "editionDate":  "2026-08-04",
     "editionLabel":  "KI-Nachrichten vom 4. August 2026",
     "updatedAt":  "2026-08-04T07:17:44Z",
